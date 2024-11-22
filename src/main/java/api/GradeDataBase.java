@@ -9,6 +9,7 @@ import entity.Team;
  * GradeDB is an interface that defines the methods that the GradeDB class must implement.
  */
 public interface GradeDataBase {
+
     /**
      * A method that returns the grade of a student in a course.
      * @param username is the username of the student.
